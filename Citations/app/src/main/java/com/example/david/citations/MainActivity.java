@@ -20,9 +20,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void afficherInfosBoutonImage(View button){
+    public void afficherInfosBoutonImage1(View button){
         TextView _textZone = (TextView)findViewById(R.id._textZone);
-
 
 
     }

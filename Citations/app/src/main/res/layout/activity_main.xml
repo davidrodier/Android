@@ -10,23 +10,20 @@
         android:gravity="center_horizontal">
 
         <ImageButton
-            android:id="@+id/terminator"
             android:src="@drawable/terminator"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:onClick="afficherInfosBoutonImage"/>
+            android:onClick="afficherInfosBoutonImage1"/>
         <ImageButton
-            android:id="@+id/glados"
             android:src="@drawable/glados"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:onClick="afficherInfosBoutonImage"/>
+            android:onClick="afficherInfosBoutonImage2"/>
         <ImageButton
-            android:id="@+id/hitler"
             android:src="@drawable/hitler"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:onClick="afficherInfosBoutonImage"/>
+            android:onClick="afficherInfosBoutonImage3"/>
     </LinearLayout>
 
     <TextView
